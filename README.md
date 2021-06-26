@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @mohan1411-qa
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Python Automation and wanted to learn more tools which going forward will help me to testing in a effective manner
+- 🌱 Experience in Python Selenium, Appium and API Automation
+- 🌱 Currently working in Mobile Automation using Robot Framework
 - 💞️ I’m looking to collaborate on any testing related activities
 - 📫 How to reach me mohancse43@gmail.com
+- Always inclined towards learning.
 
 <!---
 mohan1411-qa/mohan1411-qa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
