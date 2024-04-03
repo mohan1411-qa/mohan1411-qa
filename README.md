@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohan1411-qa
 - 👀 I’m interested in Automation Testing
-- 🌱 Experience in Python Selenium, Appium and API Automation
+- 🌱 Experience in Python, Java, Selenium, Appium and Rest Assured, Pytest
 - 🌱 Currently working in Mobile Automation using Robot Framework
 - 💞️ I’m looking to collaborate on any testing related activities
 - 📫 How to reach me mohancse43@gmail.com
